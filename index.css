@@ -1,0 +1,38 @@
+body {
+    background-image: url("https://cdn-icons-png.flaticon.com/512/3564/3564475.png");
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+#watch{
+    margin-top: 18%;
+    margin-left: 38%;
+    border-radius: 10%;
+    width: 24%;
+    height: 8.7vw;
+    font-size: 8vw;
+    background-color: rgb(202, 238, 172);
+    display: flex;
+    justify-content: center;
+}
+#start{
+    margin-left: 34.5%;
+    margin-top: 4%;
+    width: 9vw;
+}
+#stop{
+    width: 9vw;
+}
+#round{
+    float: left;
+}
+#clear{
+    float: left;
+}
+#saves{
+    background-color: bisque;
+    width: 300px;
+    height: 300px;
+    font-size: xx-large;
+}
